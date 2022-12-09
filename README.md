@@ -1,6 +1,5 @@
 # 221205
-비주얼 스튜디오 코드 - 소스 코드 편집기
-
+참고사이트>>
 IDE - 통합 개발 환경
 https://www.hrd.go.kr/hrdp/ma/pmmao/newIndexRenewal.do - 직업훈련포털
 
