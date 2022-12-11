@@ -20,7 +20,7 @@ api이용해서 부산날씨띄우기
   xhr.send();<br>
 };<br>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpacksunjun%2F221121&count_bg=%23C8C83D&title_bg=%23FF0000&icon=&icon_color=%23FF00C7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpacksunjun%2F221205&count_bg=%23C8C83D&title_bg=%23FF0000&icon=riseup.svg&icon_color=%230070FF&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 ![1](https://user-images.githubusercontent.com/112832753/206888655-57bee08c-eb55-4d09-961a-aa149b42b0ed.PNG)
 1. API란
 
