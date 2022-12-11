@@ -5,6 +5,22 @@ https://www.hrd.go.kr/hrdp/ma/pmmao/newIndexRenewal.do - 직업훈련포털
 
 api이용해서 부산날씨띄우기
 =====================================
+> const getJSON = function (url, callback) {<br>
+  const xhr = new XMLHttpRequest();<br>
+  xhr.open('GET', url, true);<br>
+  xhr.responseType = 'json';<br>
+  xhr.onload = function () {<br>
+    const status = xhr.status;<br>
+    if (status === 200) {<br>
+      callback(null, xhr.response);<br>
+    } else {<br>
+      callback(status, xhr.response);<br>
+    }<br>
+  };<br>
+  xhr.send();<br>
+};<br>
+  
+
 ![1](https://user-images.githubusercontent.com/112832753/206888655-57bee08c-eb55-4d09-961a-aa149b42b0ed.PNG)
 1. API란
 
