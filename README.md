@@ -5,8 +5,8 @@ https://www.hrd.go.kr/hrdp/ma/pmmao/newIndexRenewal.do - 직업훈련포털
 
 api이용해서 부산날씨띄우기
 =====================================
+![1](https://user-images.githubusercontent.com/112832753/206888655-57bee08c-eb55-4d09-961a-aa149b42b0ed.PNG)
 1. API란
- 
 
 API란 Application Programming Interface의 약자로 프로그램이나 어플리케이션이 정보처리를 위해 운영체제에 호출하는 함수나 서브루틴의 집합을 말합니다. 서버에서는 API를 제공함으로써 클라이언트가 손쉽게 원하는 정보를 가져갈 수 있도록 도와줍니다. 
  
